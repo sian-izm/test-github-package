@@ -1,0 +1,11 @@
+{
+  "name": "@sian-izm/test-github-package",
+  "version": "1.0.0",
+  "description": "test description",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
